@@ -1,0 +1,1 @@
+this is my first hardware proyect, im making a desktop pet or something like a tamagothi and is looking pretty good, im making this proyect for half life in hackclub my goal is to win that 3d printer but my number 1 goal is to learn how to make hardware proyects by my own :D
