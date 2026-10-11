@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 11.9h | 2 |
+| Week 1 | Tier 1 | 12h | 2 |
 
 ## Contents
 
@@ -41,7 +41,7 @@ i started making the pcb and trying to learn, im half way to end the pcb and im 
 
 ### 2026-10-11 – i was doing the edge cuts and added some footprints to the pcb and conected all the parts, the footage than i added is not all because all of the past footage got deleted by an error but i tried my be
 
-**4.9h**
+**5h**
 
 i was doing the edge cuts and added some footprints to the pcb and conected all the parts, the footage than i added is not all because all of the past footage got deleted by an error but i tried my best to get something, but thats all than i worked on and im proud of my job :D
 
