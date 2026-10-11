@@ -1,1 +1,3 @@
 this is my first hardware proyect, im making a desktop pet or something like a tamagothi and is looking pretty good, im making this proyect for half life in hackclub my goal is to win that 3d printer but my number 1 goal is to learn how to make hardware proyects by my own :D
+<img width="959" height="539" alt="Captura de pantalla 2026-10-11 000006" src="https://github.com/user-attachments/assets/5300096b-f99f-4bd0-ac8d-1b8b17130853" />
+<img width="959" height="539" alt="Captura de pantalla 2026-10-10 131840" src="https://github.com/user-attachments/assets/86768a12-5f56-4878-b43b-0480ef169706" />
